@@ -39,7 +39,7 @@ def do_nothing():
 # This function is to make sure the game doesn't break
 # from a unknown command.
 def did_not_comprehend():
-	print "\nYou instantly died form doing something incomprehensible. \n"
+	print "\nYou instantly died from doing something incomprehensible. \n"
 	print "No one missed your presence or even remembered who you were. \n"
 	print "Hooray. \n"
 	
